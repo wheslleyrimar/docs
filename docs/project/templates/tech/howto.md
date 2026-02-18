@@ -15,8 +15,6 @@ What the reader will accomplish.
 - Required access/credentials
 - Required repo context
 
-```
-```
 
 ## Steps
 
