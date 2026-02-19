@@ -1,5 +1,5 @@
 ---
-title: How-to: {Short task}
+title: "How-to: {Short task}"
 type: howto
 audience: engineers + LLMs
 last_updated: YYYY-MM-DD

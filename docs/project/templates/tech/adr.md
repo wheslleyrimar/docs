@@ -1,5 +1,5 @@
 ---
-title: ADR: {Short decision title}
+title: "ADR: {Short decision title}"
 type: decision
 audience: engineers + LLMs
 last_updated: YYYY-MM-DD
